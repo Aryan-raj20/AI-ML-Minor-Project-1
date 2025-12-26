@@ -1,2 +1,12 @@
-# AI-ML-Minor-Project-1
-Student Online Exam Attempt Success Rate Analysis
+---
+title: Student Exam Success Analysis
+emoji: 👀
+colorFrom: red
+colorTo: indigo
+sdk: gradio
+sdk_version: 6.2.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
